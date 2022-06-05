@@ -1,2 +1,4 @@
 #!/bin/bash
-echo 'google cloud bad'
+touch /var/plexguide/gce.done
+touch /var/plexguide/gce.false
+echo 'bad gce'
